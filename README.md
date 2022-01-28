@@ -4,7 +4,7 @@
 
 
 <ul>
-  <li><a href='https://canan0063.github.io/javascript-projects-beginner/change-backgroundcolor/change-bg-index.html'></a></li>
+  <li><a href='https://canan0063.github.io/javascript-projects-beginner/change-backgroundcolor/change-bg-index.html'>Change the background</a></li>
 </ul>
 
 
