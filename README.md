@@ -6,4 +6,5 @@
 <ul>
   <li><a href='https://canan0063.github.io/javascript-projects-beginner/change-backgroundcolor/change-bg-index.html'>Change the background</a></li>
   <li><a href='https://canan0063.github.io/javascript-projects-beginner/random-quote-generator/random-quote.html'>Random Quote Generator</a></li>
+  <li><a href='https://canan0063.github.io/javascript-projects-beginner/pass-message-web/index.html'>Pass Your Message</a></li>
 </ul>
