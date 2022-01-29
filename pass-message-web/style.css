@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu';
+    font-size: 10px;
+    font-size: 1.5rem;
+}
+
+body p {
+    color: black;
+    text-shadow: 0px 0px 30px;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column ;
+    padding-top: 10%;
+}
+
+.text-box{
+    border-radius: 15px;
+}
+
+.text-box:focus{
+    border: none;
+}
+
+.submit-btn{
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.message-items{
+    display: none;
+}
+.no-show{
+    display: none;
+    text-align: center;
+}
+.show{
+    display: block;
+    padding-top: 1%;
+    color: tomato;
+}
+
+.show-msg-list{
+    display: block;
+}
