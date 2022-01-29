@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 24px;
+  font-family: "Montserrat";
+}
+
+html {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  padding-top: 2%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+
+.image-slider-img {
+  width: 100vh;
+  height: 80vh;
+  object-fit: cover;
+}
+
+.image-slider p {
+  text-align: center;
+}
+
+.btn-left {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 2;
+}
+
+.btn-right {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 2;
+}
