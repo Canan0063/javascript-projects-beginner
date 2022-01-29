@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-fluid{
+    margin: 20%;
+    border: 8px solid black;
+}
+.title{
+    text-shadow: 5px 5px steelblue;
+}
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
