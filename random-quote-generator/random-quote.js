@@ -83,4 +83,3 @@ function moveQuotes(){
          body.style.backgroundColor = quotes[randomIndex].bgColor;
      })
  }
-
