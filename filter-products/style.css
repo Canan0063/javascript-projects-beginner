@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: absolute;
+}
+
+body{
+    padding: 5%;
+    position: relative;
+}
+.btns-categories{
+    flex-wrap: wrap;
+}
+
+.container-fluid{
+    flex-wrap: wrap;
+}
+
+.proImg{
+    width: 200vh;
+    height: 40vh;
+    object-fit: contain;
+}
+
+.price{
+    font-weight: bolder;
+}
+
+.row{
+    position: relative;
+}
+
+.hidden-text{
+    display: none;
+}
