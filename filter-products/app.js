@@ -1,5 +1,6 @@
-filterProducts();
 searchBox();
+filterProducts();
+
 
 //filtering with buttons
 function filterProducts(){
