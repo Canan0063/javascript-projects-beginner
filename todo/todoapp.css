@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #041C32;
+}
+
+.to-do-project{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    margin-left: 50px;
+}
+.task{
+    color: white;
+}
+.delete{
+    margin-left: 25px;
+    color: white;
+    border: 0;
+}
+.completed{
+    text-decoration: line-through;
+}
