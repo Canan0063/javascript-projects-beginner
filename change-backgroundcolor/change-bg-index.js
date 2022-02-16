@@ -5,7 +5,7 @@ const color_options = ['#2EB086','#655D8A','#D885A3','#7897AB','#04293A','#57053
 
 body_web.style.backgroundColor = '#364F6B';
 button_change.addEventListener('click',()=>{
-    const colorIndex = parseInt(Math.random()*color_options.length);
+    const colorIndex = parseInt(Math.round(Math.random()*color_options.length));
     body_web.style.backgroundColor = color_options[colorIndex];
     console.log(color_options[colorIndex]);
 })
